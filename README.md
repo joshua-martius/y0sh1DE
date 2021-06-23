@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![image](https://user-images.githubusercontent.com/57965027/123112492-06ad1780-d43e-11eb-8cd4-d4e79d958510.png)
 
 <!--
 **y0sh1DE/y0sh1DE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
